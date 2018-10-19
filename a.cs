@@ -1,4 +1,4 @@
-namespace aaa
+namespace aaa{
 
 
 class A {
@@ -7,4 +7,5 @@ class A {
 
 class B {
  sdlkfjsdf 
+}
 }
