@@ -1,0 +1,7 @@
+namspace aaa
+
+
+class A {
+
+}
+
